@@ -141,7 +141,7 @@
     },
     {
       "titulo": "Bases de Datos",
-      "desarrollo": "Competencia en la gestión de bases de datos y consultas en MySQL."
+      "desarrollo": "Competencia en la gestión de bases de datos relacionales (MySQL) y conocimientos en la conexión y manejo de bases de datos no relacionales (MongoDB), con  estructuración de datos en formato JSON.."
     },
     {
       "titulo": "Análisis de Datos",
@@ -159,5 +159,6 @@
     { "titulo": "Vehículo propio" }
   ]
 }
+
 
 
