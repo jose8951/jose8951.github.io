@@ -57,6 +57,12 @@
     }
   ],
   "cursos": [
+        {
+      "curso": "IFCD0210 DESARROLLO DE APLICACIONES CON TECNOLOGÍAS WEB ",
+      "centro": "Grupo Alce Formación",
+      "duracion": "(Del 24/02/2025 al 05/08/2025) 590 horas.",
+      "descripcion": "Curso práctico en desarrollo web con HTML, CSS, JavaScript, reutilización de componentes, diseño adaptativo y conexión con bases de datos."
+    },
     {
       "curso": "IFCT0610 - ADMINISTRACIÓN Y PROGRAMACIÓN EN SISTEMAS DE PLANIFICACIÓN DE RECURSOS EMPRESARIALES Y DE GESTIÓN DE RELACIONES CON CLIENTES. ",
       "centro": "Grupo Euroformac",
@@ -159,6 +165,7 @@
     { "titulo": "Vehículo propio" }
   ]
 }
+
 
 
 
