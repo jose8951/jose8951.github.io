@@ -8,7 +8,7 @@
     },
     {
       "estado": "reglada",
-      "titulo": "Ciclo formativo de Grado Superior de Aplicaciones multiplataforma.",
+      "titulo": "Ciclo formativo de Grado Superior Desarrollo de Aplicaciones multiplataforma.",
       "centro": "Instituto de Educación Secundaria aguadulce",
       "fecha": "Falta una asignatura para terminar el Ciclo formativo."
     },
@@ -20,6 +20,11 @@
     }
   ],
   "trabajos": [
+        {
+      "empresa": "BEBYTE TECNOLOGIA SL",
+      "descripcion": "Durante mi colaboración participé en el desarrollo de un proyecto enfocado en la creación de un sistema CRUD, integrando una arquitectura  con MongoDB como base de datos. ",
+      "fecha": "05-08-2025"
+    },
     {
       "empresa": "NOVASOFT INGENIERIA, S.L.",
       "descripcion": "Mantenimiento de sistemas.   Montaje y reparación de sistemas informáticos.  Instalación  de red UTP y fibra. ",
@@ -154,3 +159,4 @@
     { "titulo": "Vehículo propio" }
   ]
 }
+
