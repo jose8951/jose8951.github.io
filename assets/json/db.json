@@ -26,37 +26,42 @@
     {
       "empresa": "BEBYTE TECNOLOGIA SL",
       "descripcion": "Durante mi colaboración participé en el desarrollo de un proyecto enfocado en la creación de un sistema CRUD, integrando una arquitectura  con MongoDB como base de datos. ",
-      "fecha": "05-08-2025"
+      "fecha": "3 meses practicas"
+    },
+      {
+      "empresa": "Málaga EdTech Hub.",
+      "descripcion": "Administración de sistemas y desarrollo web, creación de máquinas virtuales y publicación de páginas web.",
+      "fecha": "3 meses practicas"
     },
     {
       "empresa": "NOVASOFT INGENIERIA, S.L.",
       "descripcion": "Mantenimiento de sistemas.   Montaje y reparación de sistemas informáticos.  Instalación  de red UTP y fibra. ",
-      "fecha": "01-08-2009"
+      "fecha": "6 años."
     },
     {
       "empresa": "VITELCOM  MOBILE TECHOLOGY S.A.",
       "descripcion": "Técnico Especialista en montaje y reparación de componentes de telefonía móvil.",
-      "fecha": "21-05-2008"
+      "fecha": "5 años."
     },
     {
       "empresa": "Anovo - ADPG ETT, SL.",
-      "fecha": "01-02-2004",
+      "fecha": "3 meses",
       "descripcion": "Técnico Especialista en  montaje y reparación   de  componentes de telefonía móvil"
     },
     {
       "empresa": "COCA COLA S.A.",
       "descripcion": "TCOCA COLA S.A.  Auxiliar de producción desempeñando funciones de supervisión y control de calidad.",
-      "fecha": "2003 – 2004"
+      "fecha": "1 año."
     },
     {
       "empresa": "FUJITSU ICL ESPAÑA S.A.",
       "descripcion": "Montaje y reparaciones  de cajeros automáticos",
-      "fecha": "01-02-2004"
+      "fecha": "5 meses."
     },
     {
       "empresa": "SAN MIGUEL FABRICA DE CERVEZA.",
       "descripcion": "Auxiliar de producción en la cadena de montaje, desempeñando funciones de supervisión y control de calidad",
-      "fecha": "1996 – 1999"
+      "fecha": "2 años."
     }
   ],
   "cursos": [
